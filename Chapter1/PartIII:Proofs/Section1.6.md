@@ -31,7 +31,7 @@
 ## Rules of Inference for Propositional 명제에 대한 추론 규칙<br>
 
 <img width="631" alt="스크린샷 2022-09-19 오전 12 24 17" src="https://user-images.githubusercontent.com/103713510/190914818-f85f55e8-71e2-4312-95df-fa1118c74723.png">
-<br>
+
 ## 추론 규칙을 사용하여 유효한 인수 작성<br>
 유효한 인수는 일련의 진술입니다. 각 진술은 추론 규칙에 의해 전제가 되거나 이전 진술에서 따른다. 마지막 진술을 결론이라고 합니다.<br>
 유효한 인수의 형식은 다음과 같습니다.<br>

@@ -26,6 +26,8 @@ The objects in a set are called the elements, or members of the set. A set is sa
 
 The notation a ∈ A denotes that a is an element of the set A. / 표기법 a ∈ A는 a가 집합 A의 원소임을 나타낸다.<br>
 If a is not a member of A, write a ∉ A / A가 A의 멤버가 아닌 경우 a ∉ A를 적습니다.<br>
+
+
 --------
 
 

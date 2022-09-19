@@ -57,6 +57,10 @@ Universal Generalization (UG)  = 범용 일반화(UG)<br>
 Existential Instantiation (EI)  = 실존적 인스턴스화(EI)<br>
 Existential Generalization (EG)  = 존재론적 일반화(EG)<br>
 
+P (c) for an arbitrary c 임의의 c에 대한 P(c)<br>
+P(c) for some element c  일부 원소 c에 대한 P(c)<br>
+
+
 <img width="789" alt="스크린샷 2022-09-19 오전 12 37 43" src="https://user-images.githubusercontent.com/103713510/190915430-408915c3-c5a2-434b-9cc5-a002decd0c32.png">
 <br>
 <img width="784" alt="스크린샷 2022-09-19 오전 12 37 50" src="https://user-images.githubusercontent.com/103713510/190915435-eeff4f3a-2ead-47be-b69c-e2f811fb37d1.png">

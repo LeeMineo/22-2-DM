@@ -91,8 +91,11 @@ empty set<br>
 공집합<br>
 원소가 존재하지 않는 것<br>
 기호: ∅<br>
+
+<img width="267" alt="스크린샷 2022-09-20 오전 1 46 27" src="https://user-images.githubusercontent.com/103713510/191070139-ded06687-c416-4d46-b4b6-ceacd86445a3.png">
+
  
-Some things to remember<br>
+## Some things to remember<br>
 
 집합은 집합의 원소가 될 수 있다. ex. {{1,2,3},a, {b,c}}  /  {N,Z,Q,R}<br>
 empty set은 empty set을 원소로 포함한 집합과 다르다. ∅  ≠ { ∅ }<br>
@@ -100,6 +103,7 @@ empty set은 empty set을 원소로 포함한 집합과 다르다. ∅  ≠ { �
 ## Set Equality 집합 동등성<br>
 
 두 집합은 동일한 원소들을 가지고 있을 때 동일하다. <br>
+<img width="259" alt="스크린샷 2022-09-20 오전 1 48 05" src="https://user-images.githubusercontent.com/103713510/191070437-ef1e8096-21d2-46c6-a4ee-dc87b2775a53.png">
 
 모든 x에 대해, x가 A에 포함되었을 때 x는 B에도 포함된다.<br>
 모든 x에 대해, x가 B에 포함되었을 때 x는 A에도 포함된다.<br>
@@ -109,8 +113,10 @@ empty set은 empty set을 원소로 포함한 집합과 다르다. ∅  ≠ { �
 
 A의 모든 원소가 B의 원소라면, 집합 A는 B의 부분집합이다. <br>
 표기: A ⊆ B<br>
+<img width="238" alt="스크린샷 2022-09-20 오전 1 48 20" src="https://user-images.githubusercontent.com/103713510/191070487-40c3f326-c749-4ec5-bb9f-b8c4aa9d8cd7.png">
 
 모든 x에 대해 x가 A의 원소라면 X는 B의 원소이다.<br>
+
 위 식을 만족할 때만 A  ⊆  B이 성립한다.<br>
 1. Because a ∈ ∅  is  always false, ∅ ⊆ S, for every  set S.<br>
 ☞모든 집합 S에 대해 a는 공집합의 원소가 아니고, 공집합은 S의 부분집합이다.<br>
@@ -128,11 +134,14 @@ A의 모든 원소가 B의 원소라면, 집합 A는 B의 부분집합이다. <b
 ## Another look at Equality of Sets 집합의 동등을 다르게 바라보기<br>
 
 A = B일 때<br>
+<img width="319" alt="스크린샷 2022-09-20 오전 1 52 05" src="https://user-images.githubusercontent.com/103713510/191071140-11a329aa-f8ef-404b-a8ce-f0bc9899e165.png">
 
 이는 아래와 같이 표현 가능하다. (biconditional을 하나씩 쪼갬)<br>
+<img width="612" alt="스크린샷 2022-09-20 오전 1 52 09" src="https://user-images.githubusercontent.com/103713510/191071154-36b7d985-5899-4f5d-b352-17c98cabb2e8.png">
 
 따라서 A = B일 때 A는 B의 부분집합이고 B는 A의 부분집합이다.<br>
- 
+ <img width="331" alt="스크린샷 2022-09-20 오전 1 52 13" src="https://user-images.githubusercontent.com/103713510/191071189-da16a753-7c1d-495a-a9a7-be7a61c4a6dd.png">
+
  
 ## Proper Subsets 진부분집합 <br>
 
